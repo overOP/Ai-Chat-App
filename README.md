@@ -2,7 +2,7 @@
 
 A sleek, responsive AI-powered chat interface built with **React**, **Tailwind CSS**, and an external AI service provided via `window.puter.ai.chat`.
 
-![AI Chat App Screenshot](./screenshot.png)
+![AI Chat App Screenshot]([./screenshot.png](https://ai-chat-app-rust.vercel.app/))
 
 ## 🚀 Features
 
